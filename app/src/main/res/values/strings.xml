@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">weatherApp</string>
+    <string name="localisation">Localisation</string>
+    <string name="mis_jour">mis à jour à:</string>
+    <string name="temps_d_gag">temps dégagé</string>
+    <string name="_28_c">28°C</string>
+    <string name="temp_min">temp min</string>
+    <string name="temp_max">temp max</string>
 </resources>
